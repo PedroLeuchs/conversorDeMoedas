@@ -65,7 +65,3 @@ O aplicativo utiliza a API gratuita de taxas de câmbio do "Open Exchange Rates"
 ## Desenvolvido por
 
 Pedro Leuchs - [GitHub](https://github.com/PedroLeuchs)
-
-## Licença
-
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
